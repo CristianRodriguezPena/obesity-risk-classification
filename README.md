@@ -59,7 +59,9 @@ Ensure Python is installed, along with the required libraries:
 `pip install pandas numpy scikit-learn matplotlib seaborn`
 
 ### Running the project
-1. Clone the repository:
+1. Clone the repository:  
+`git clone https://github.com/CristianRodriguezPena/obesity-risk-classification.git`  
+`cd obesity-risk-classification`
 
 2. Run Jupyter notebook or Python script:  
 `jupyter notebook`
